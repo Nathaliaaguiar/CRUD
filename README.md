@@ -33,5 +33,8 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull re
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 ## Autores
-- Nathalia Aguiar de Melo 
+- Nathalia Aguiar de Melo
+  
+## Deploy
+- https://nathaliaaguiar.github.io/CRUD/
 
